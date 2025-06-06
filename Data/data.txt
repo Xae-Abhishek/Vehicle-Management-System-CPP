@@ -1,0 +1,6 @@
+Branch : 2   Vehicle : 3   Worth : 44500   Revenue : 5500
+BrnachName : AHM BranchNo : 123 RevenueGenerated : 5500 Vehicle : 2 Rented : 2 Free : 0 Worth : 40000
+VehicleNo  : A4551 Name : TVS    Price : 20000   isrented : true  RentPrice: 3000   RevenueGenerated : 3000
+VehicleNo  : S4551 Name : TVS    Price : 20000   isrented : true  RentPrice: 2500   RevenueGenerated : 2500
+BrnachName : SUNR BranchNo : 456 RevenueGenerated : 0 Vehicle : 1 Rented : 0 Free : 1 Worth : 4500
+VehicleNo  : D4551 Name : TVS    Price : 4500   isrented : false  RentPrice: 0   RevenueGenerated : 0
