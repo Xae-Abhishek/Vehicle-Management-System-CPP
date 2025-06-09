@@ -1,8 +1,9 @@
 #include <iostream>
-#include "branch.h"
 #include <vector>
 #include <fstream>
 
+
+#include "branch.h"
 #include "../loggerClasses/logger.h"
 #include "../validateInputClasses/validateInput.h"
 
